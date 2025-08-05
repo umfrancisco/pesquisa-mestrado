@@ -1,7 +1,7 @@
 #### 1. Dados sobre os prontuários do Manicômio Judiciário de São Paulo entre 1927 e 1933.
 <br/>
 Os dados sobre os prontuários do Manicômio Judiciário foram organizados a partir de seis categorias:<br/>
-    -> id_documento: Identificação do documento segundo a classificação do próprio Arquivo Público do Estado de São Paulo<br/>
+    -> id_documento: Identificação do documento segundo a classificação do Arquivo Público<br/>
     -> id_caixa: Identificação do número da caixa em que está o prontuário<br/>
     -> ano_internacao: Ano em que o paciente foi internado pela primeira vez<br/>
     -> local_detencao: Local em que o paciente esteve detido antes de ser internado<br/>
