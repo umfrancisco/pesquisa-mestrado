@@ -7,6 +7,7 @@ Os dados sobre os prontuários do Manicômio Judiciário foram organizados a par
     -> local_detencao: Local em que o paciente esteve detido antes de ser internado<br/>
     -> local_internacao: Hospital psiquiátrico em que o paciente foi internado<br/>
     -> infracao: Crime que o paciente teria cometido<br/>
+    
 [Veja mais](https://github.com/umfrancisco/pesquisa-mestrado/blob/main/documentos/lista_completa_detentos_manicomio_judiciario.csv)
 
 #### 2. Palavras-chave buscadas e quantidade de ocorrências no conjunto de documentos chamados de Mensagens do Governador de São Paulo para Assembleia, 1890-1930.
