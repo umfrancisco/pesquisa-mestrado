@@ -1,0 +1,173 @@
+-> Seleção de detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:
+
+Detento de 1927:
+278a, 22, Penitenciária do Estado, Homicídio
+
+Detento de 1928:
+32a, 23, Cadeia Pública da Capital, Homicídio
+
+Detento de 1929:
+135a, 24, Penitenciária do Estado, Homicídio
+
+Detento de 1930:
+180a, 27, Cadeia Pública da Capital, Homicídio
+
+Detento de 1931:
+42a, 28, Cadeia Pública da Capital, Homicídio
+
+Detento de 1932:
+2b, 32, Penitenciária do Estado, Homicídio
+
+Detento de 1933:
+85b, 45, Penitenciária do Estado, Homicídio
+
+-> Informações sobre detenção
+
+Detenção em 1927:
+Penitenciária do Estado, 4
+Cadeia Pública da Capital, 9
+Cadeia do Interior, 3
+
+Detenção em 1928:
+Cadeia do Interior, 3
+Cadeia Pública da Capital, 1
+
+Detenção em 1929:
+Cadeia Pública da Capital, 7
+Cadeia do Interior, 8
+Penitenciária do Estado, 5
+Cadeia de Santos, 1
+
+Detenção em 1930:
+Cadeia do Interior, 7
+Instituto Correcional de Taubaté, 3
+Cadeia Pública da Capital, 3
+
+Detenção em 1931:
+Cadeia Pública da Capital, 13
+Cadeia do Interior, 16
+Recolhimento das Perdizes, 1
+Hospital Comum, 1
+Penitenciária do Estado, 2
+
+Detenção em 1932:
+Penitenciária do Estado, 30
+Cadeia Pública da Capital, 6
+Cadeia do Interior, 7
+Hospital Militar, 1
+Carceragem da Policia Central São Paulo, 1
+Hospedaria de Imigrantes, 1
+
+Detenção em 1933:
+Asilo de Inválidos de Jaçanã, 1
+Cadeia Pública da Capital, 8
+Cadeia do Interior, 19
+Recolhimento das Perdizes, 1
+Penitenciária do Estado, 7
+Delegacia de Polícia, 1
+Repartição Central da Polícia São Paulo, 1
+
+-> Informações sobre internação
+
+Internação em 1927:
+Hospital do Juqueri, 16
+
+Internação em 1928:
+Hospital do Juqueri, 4
+
+Internação em 1929:
+Hospital do Juqueri, 21
+
+Internação em 1930:
+Hospital do Juqueri, 13
+
+Internação em 1931:
+Manicômio Judiciário, 26
+Hospital do Juqueri, 7
+
+Internação em 1932:
+Manicômio Judiciário, 46
+
+Internação em 1933:
+Manicômio Judiciário, 38
+
+-> Informações sobre detenção
+
+Infrações em 1927:
+Homicídio, 10
+Não identificado, 4
+Lesão corporal, 2
+
+Infrações em 1928:
+Homicídio, 2
+Não identificado, 1
+Lesão corporal, 1
+
+Infrações em 1929:
+Homicídio, 14
+Não identificado, 5
+Tentativa de homicídio, 2
+
+Infrações em 1930:
+Homicídio, 7
+Não identificado, 5
+Invasão de propriedade, 1
+
+Infrações em 1931:
+Homicídio, 7
+Não identificado, 26
+
+Infrações em 1932:
+Homicídio, 28
+Roubo, 2
+Não identificado, 3
+Estupro, 3
+Lesão corporal, 4
+Furto, 2
+Tentativa de homicídio, 4
+
+Infrações em 1933:
+Homicídio, 26
+Lesão corporal, 2
+Roubo, 2
+Estelionato, 1
+Não identificado, 4
+Furto, 2
+Estupro, 1
+
+-> Informações sobre detenção por homicídio
+
+Detenção por homicídio em 1927:
+Penitenciária do Estado, 4
+Cadeia Pública da Capital, 5
+Cadeia do Interior, 1
+
+Detenção por homicídio em 1928:
+Cadeia do Interior, 1
+Cadeia Pública da Capital, 1
+
+Detenção por homicídio em 1929:
+Cadeia Pública da Capital, 3
+Cadeia do Interior, 7
+Penitenciária do Estado, 4
+
+Detenção por homicídio em 1930:
+Cadeia do Interior, 5
+Cadeia Pública da Capital, 2
+
+Detenção por homicídio em 1931:
+Cadeia Pública da Capital, 4
+Cadeia do Interior, 3
+
+Detenção por homicídio em 1932:
+Penitenciária do Estado, 20
+Cadeia Pública da Capital, 4
+Cadeia do Interior, 4
+
+Detenção por homicídio em 1933:
+Asilo de Inválidos de Jaçanã, 1
+Cadeia Pública da Capital, 5
+Cadeia do Interior, 14
+Recolhimento das Perdizes, 1
+Penitenciária do Estado, 4
+Delegacia de Polícia, 1
