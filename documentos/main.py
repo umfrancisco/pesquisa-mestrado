@@ -11,7 +11,6 @@ mydb = mysql.connector.connect(
 mycursor = mydb.cursor()
 i = 1927
 
-print("Seleção de detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:")
 while (i < 1934):
     print("Detento de "+str(i)+":")
     mycursor.execute("select id_documento, id_caixa, local_detencao, infracao from manicomio where data_entrada = "+str(i)+" and local_detencao in('Penitenciária do Estado', 'Cadeia Pública da Capital') and infracao = 'Homicídio' order by local_detencao desc limit 1")
