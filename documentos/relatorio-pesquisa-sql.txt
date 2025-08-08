@@ -1,24 +1,31 @@
 -> Seleção de detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:
 
 Detento de 1927:
+Nome fictício: João Alberto
 278a, 22, Penitenciária do Estado, Homicídio
 
 Detento de 1928:
+Nome fictício: Carlo Nascimento
 32a, 23, Cadeia Pública da Capital, Homicídio
 
 Detento de 1929:
+Nome fictício: Arnaldo Campos
 135a, 24, Penitenciária do Estado, Homicídio
 
 Detento de 1930:
+Nome fictício: Jorge Ricardo
 180a, 27, Cadeia Pública da Capital, Homicídio
 
 Detento de 1931:
+Nome fictício: Fernando Fernandes
 42a, 28, Cadeia Pública da Capital, Homicídio
 
 Detento de 1932:
+Nome fictício: Sigmundo Correia
 2b, 32, Penitenciária do Estado, Homicídio
 
 Detento de 1933:
+Nome fictício: Bento de Almeida
 85b, 45, Penitenciária do Estado, Homicídio
 
 -> Informações sobre detenção
