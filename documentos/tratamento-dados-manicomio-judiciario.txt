@@ -1,4 +1,5 @@
-# Seleção de detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:
+# Seleção de prontuários para a etapa qualitativa 
+# Detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:
 
 Detento de 1927:
 [id documento, id caixa, local detencao, infracao]
