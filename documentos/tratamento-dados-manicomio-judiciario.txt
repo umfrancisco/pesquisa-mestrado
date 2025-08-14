@@ -1,5 +1,5 @@
 # Seleção de prontuários para a etapa qualitativa 
-# Detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:
+#1 Detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:
 
 Detento de 1927:
 [id documento, id caixa, local detencao, infracao]
@@ -29,7 +29,7 @@ Detento de 1933:
 [id documento, id caixa, local detencao, infracao]
 ('85b', 45, 'Penitenciária do Estado', 'Homicídio')
 
-# Informações sobre detenção:
+#2 Informações sobre detenção:
 
 Detenção em 1927:
 [local detencao, quantidade de prontuarios]
@@ -82,7 +82,7 @@ Detenção em 1933:
 ('Delegacia de Polícia', 1)
 ('Repartição Central da Polícia (São Paulo)', 1)
 
-# Informações sobre internação:
+#3 Informações sobre internação:
 
 Internação em 1927:
 [local internacao, quantidade de prontuarios]
@@ -113,7 +113,7 @@ Internação em 1933:
 [local internacao, quantidade de prontuarios]
 ('Manicômio Judiciário', 38)
 
-# Informações sobre infrações:
+#4 Informações sobre infrações:
 
 Infrações em 1927:
 [infracao, quantidade de prontuarios]
@@ -164,7 +164,7 @@ Infrações em 1933:
 ('Furto', 2)
 ('Estupro', 1)
 
-# Informações sobre detenção por homicídio:
+#5 Informações sobre detenção por homicídio:
 
 Detenção por homicídio em 1927:
 [local detencao, quantidade de prontuarios]
