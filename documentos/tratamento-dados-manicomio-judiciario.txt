@@ -1,5 +1,4 @@
-# Seleção de prontuários para a etapa qualitativa 
-#1 Detentos da Penitenciária do Estado ou Cadeia Pública da Capital processados por Homicídio:
+#1 Seleção de prontuários para a etapa qualitativa:
 
 Detento de 1927:
 [id documento, id caixa, local detencao, infracao]
@@ -207,3 +206,5 @@ Detenção por homicídio em 1933:
 ('Recolhimento das Perdizes', 1)
 ('Penitenciária do Estado', 4)
 ('Delegacia de Polícia', 1)
+
+# Número total de consultas realizadas: 35
