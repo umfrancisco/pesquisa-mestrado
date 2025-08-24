@@ -71,8 +71,8 @@ Nome fictício: Gonçalo
 ('Furto', 4, Decimal('0.0234'))
 ('Estelionato', 1, Decimal('0.0058'))
 
-#4 [Quantidade de prontuários da Penitenciária do Estado ou Cadeia Pública com infração de homicídio, quantidade total]
-(56, 171)
+#4 [Quantidade de prontuários da Penitenciária do Estado ou Cadeia Pública com infração de homicídio, porcentagem]
+(56, Decimal('0.3275'))
 
 #5 [Quantidade de prontuários com infração não identificada agrupada por locais de detenção]
 ('Cadeia do Interior', 20)
