@@ -91,3 +91,18 @@ Nome fictício: Gonçalo
 ('Asilo de Inválidos de Jaçanã', 1)
 ('Recolhimento das Perdizes', 1)
 ('Delegacia de Polícia', 1)
+
+#7 [Prontuários excluindo Penitenciária do Estado, Cadeia Pública da Capital e Cadeia do interior]
+(1929, 'Cadeia de Santos', 'Hospital do Juqueri', 'Não identificado')
+(1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
+(1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
+(1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
+(1931, 'Recolhimento das Perdizes', 'Hospital do Juqueri', 'Não identificado')
+(1931, 'Hospital Comum', 'Manicômio Judiciário', 'Não identificado')
+(1932, 'Hospital Militar', 'Manicômio Judiciário', 'Lesão corporal')
+(1932, 'Carceragem da Policia Central (São Paulo)', 'Manicômio Judiciário', 'Tentativa de homicídio')
+(1932, 'Hospedaria de Imigrantes', 'Manicômio Judiciário', 'Não identificado')
+(1933, 'Asilo de Inválidos de Jaçanã', 'Manicômio Judiciário', 'Homicídio')
+(1933, 'Recolhimento das Perdizes', 'Manicômio Judiciário', 'Homicídio')
+(1933, 'Delegacia de Polícia', 'Manicômio Judiciário', 'Homicídio')
+(1933, 'Repartição Central da Polícia (São Paulo)', 'Manicômio Judiciário', 'Lesão corporal')
