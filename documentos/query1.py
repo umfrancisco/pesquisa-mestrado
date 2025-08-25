@@ -1,5 +1,6 @@
 import mysql.connector
 
+# faz a conexão com o banco de dados sql
 mydb = mysql.connector.connect(
     host="127.0.0.1",
     port=3306,
@@ -10,10 +11,13 @@ mydb = mysql.connector.connect(
 
 mycursor = mydb.cursor()
 
+# cria um contador
 i = 1927
 
+# titulo da consulta
 print("# Seleção de prontuários para a etapa qualitativa:\n")
 
+# faz uma seleção de sete prontuários segundo os critérios estabelecidos pela consulta
 while (i < 1934):
     print("Detento de "+str(i)+":")
     print("[id documento, id caixa, local detencao, infracao]")
