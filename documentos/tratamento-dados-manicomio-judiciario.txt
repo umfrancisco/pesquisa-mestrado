@@ -92,7 +92,7 @@ Nome fictício: Gonçalo
 ('Recolhimento das Perdizes', 1)
 ('Delegacia de Polícia', 1)
 
-#7 [Prontuários excluindo os da Penitenciária do Estado, Cadeia Pública da Capital e Cadeia do interior]
+#7 [Prontuários excluindo os da Penitenciária do Estado, da Cadeia Pública da Capital e de cadeias do interior]
 (1929, 'Cadeia de Santos', 'Hospital do Juqueri', 'Não identificado')
 (1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
 (1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
