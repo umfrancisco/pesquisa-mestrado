@@ -37,20 +37,20 @@ Nome fictício: Gonçalo
 
 -> Consultas personalizadas no banco de dados do Manicômio Judiciário, 1927-1933
 
-#1 [Local de detencao, quantidade de prontuários, porcentagem]
-('Cadeia do Interior', 63, Decimal('0.3684'))
-('Penitenciária do Estado', 48, Decimal('0.2807'))
-('Cadeia Pública da Capital', 47, Decimal('0.2749'))
-('Instituto Correcional de Taubaté', 3, Decimal('0.0175'))
-('Recolhimento das Perdizes', 2, Decimal('0.0117'))
-('Cadeia de Santos', 1, Decimal('0.0058'))
-('Hospital Comum', 1, Decimal('0.0058'))
-('Hospital Militar', 1, Decimal('0.0058'))
-('Carceragem da Policia Central (São Paulo)', 1, Decimal('0.0058'))
-('Hospedaria de Imigrantes', 1, Decimal('0.0058'))
-('Asilo de Inválidos de Jaçanã', 1, Decimal('0.0058'))
-('Delegacia de Polícia', 1, Decimal('0.0058'))
-('Repartição Central da Polícia (São Paulo)', 1, Decimal('0.0058'))
+#1 [Local de detencao, quantidade de prontuários]
+('Cadeia do Interior', 63)
+('Penitenciária do Estado', 48)
+('Cadeia Pública da Capital', 47)
+('Instituto Correcional de Taubaté', 3)
+('Recolhimento das Perdizes', 2)
+('Cadeia de Santos', 1)
+('Hospital Comum', 1)
+('Hospital Militar', 1)
+('Carceragem da Policia Central (São Paulo)', 1)
+('Hospedaria de Imigrantes', 1)
+('Asilo de Inválidos de Jaçanã', 1)
+('Delegacia de Polícia', 1)
+('Repartição Central da Polícia (São Paulo)', 1)
 
 #2 [Ano de internacao, quantidade de prontuários]
 (1927, 16)
@@ -61,18 +61,18 @@ Nome fictício: Gonçalo
 (1932, 46)
 (1933, 38)
 
-#3 [Infracao, quantidade de prontuários, porcentagem excluindo não identificados]
-('Homicídio', 94, Decimal('0.5497'))
-('Lesão corporal', 9, Decimal('0.0526'))
-('Tentativa de homicídio', 6, Decimal('0.0351'))
-('Invasão de propriedade', 1, Decimal('0.0058'))
-('Roubo', 4, Decimal('0.0234'))
-('Estupro', 4, Decimal('0.0234'))
-('Furto', 4, Decimal('0.0234'))
-('Estelionato', 1, Decimal('0.0058'))
+#3 [Infracao, quantidade de prontuários excluindo não identificados]
+('Homicídio', 94)
+('Lesão corporal', 9)
+('Tentativa de homicídio', 6)
+('Invasão de propriedade', 1)
+('Roubo', 4)
+('Estupro', 4)
+('Furto', 4)
+('Estelionato', 1)
 
-#4 [Quantidade de prontuários da Penitenciária do Estado ou Cadeia Pública com infração de homicídio, porcentagem]
-(56, Decimal('0.3275'))
+#4 [Quantidade de prontuários da Penitenciária do Estado ou Cadeia Pública com infração de homicídio, total de prontuários]
+(56, 171)
 
 #5 [Quantidade de prontuários com infração não identificada agrupada por locais de detenção]
 ('Cadeia do Interior', 20)
@@ -84,25 +84,10 @@ Nome fictício: Gonçalo
 ('Hospital Comum', 1)
 ('Hospedaria de Imigrantes', 1)
 
-#6 [Quantidadde de prontuários com infração de homicídio agrupada por locais de detenção]
+#6 [Quantidade de prontuários com infração de homicídio agrupada por locais de detenção]
 ('Cadeia do Interior', 35)
 ('Penitenciária do Estado', 32)
 ('Cadeia Pública da Capital', 24)
 ('Asilo de Inválidos de Jaçanã', 1)
 ('Recolhimento das Perdizes', 1)
 ('Delegacia de Polícia', 1)
-
-#7 [Prontuários excluindo os da Penitenciária do Estado, da Cadeia Pública da Capital e de cadeias do interior]
-(1929, 'Cadeia de Santos', 'Hospital do Juqueri', 'Não identificado')
-(1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
-(1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
-(1930, 'Instituto Correcional de Taubaté', 'Hospital do Juqueri', 'Não identificado')
-(1931, 'Recolhimento das Perdizes', 'Hospital do Juqueri', 'Não identificado')
-(1931, 'Hospital Comum', 'Manicômio Judiciário', 'Não identificado')
-(1932, 'Hospital Militar', 'Manicômio Judiciário', 'Lesão corporal')
-(1932, 'Carceragem da Policia Central (São Paulo)', 'Manicômio Judiciário', 'Tentativa de homicídio')
-(1932, 'Hospedaria de Imigrantes', 'Manicômio Judiciário', 'Não identificado')
-(1933, 'Asilo de Inválidos de Jaçanã', 'Manicômio Judiciário', 'Homicídio')
-(1933, 'Recolhimento das Perdizes', 'Manicômio Judiciário', 'Homicídio')
-(1933, 'Delegacia de Polícia', 'Manicômio Judiciário', 'Homicídio')
-(1933, 'Repartição Central da Polícia (São Paulo)', 'Manicômio Judiciário', 'Lesão corporal')
