@@ -2,38 +2,38 @@
 
 Detento de 1927:
 Nome fictício: Álvaro
-[id documento, id caixa, local detencao, infracao]
-(**, **, 'Penitenciária do Estado', 'Homicídio')
+Local de detenção: Penitenciária do Estado
+Infração: Homicídio
 
 Detento de 1928:
 Nome fictício: Bernardo
-[id documento, id caixa, local detencao, infracao]
-(**, **, 'Cadeia Pública da Capital', 'Homicídio')
+Local de detenção: Cadeia Pública da Capital
+Infração: Homicídio
 
 Detento de 1929:
 Nome fictício: Carlos
-[id documento, id caixa, local detencao, infracao]
-(**, **, 'Penitenciária do Estado', 'Homicídio')
+Local de detenção: Penitenciária do Estado
+Infração: Homicídio
 
 Detento de 1930:
 Nome fictício: Domenico
-[id documento, id caixa, local detencao, infracao]
-(**, **, 'Cadeia Pública da Capital', 'Homicídio')
+Local de detenção: Cadeia Pública da Capital
+Infração: Homicídio
 
 Detento de 1931:
 Nome fictício: Ernesto
-[id documento, id caixa, local detencao, infracao]
-(**, **, 'Cadeia Pública da Capital', 'Homicídio')
+Local de detenção: Cadeia Pública da Capital
+Infração: Homicídio
 
 Detento de 1932:
 Nome fictício: Frederico
-[id documento, id caixa, local detencao, infracao]
-(**, **, 'Penitenciária do Estado', 'Homicídio')
+Local de detenção: Penitenciária do Estado
+Infração: Homicídio
 
 Detento de 1933:
 Nome fictício: Gonçalo
-[id documento, id caixa, local detencao, infracao]
-(**, **, 'Penitenciária do Estado', 'Homicídio')
+Local de detenção: Penitenciária do Estado
+Infração: Homicídio
 
 -> Consultas personalizadas no banco de dados do Manicômio Judiciário, 1927-1933
 
