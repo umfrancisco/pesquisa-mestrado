@@ -1,172 +1,171 @@
-id, ano internacao, local detencao, local internacao, infracao
-1, 1927, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-2, 1927, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-3, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-4, 1927, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-5, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-6, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-7, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-8, 1927, Cadeia do Interior, Hospital do Juqueri, Lesão corporal
-9, 1927, Cadeia do Interior, Hospital do Juqueri, Lesão corporal
-10, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-11, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-12, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-13, 1927, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-14, 1927, Cadeia do Interior, Hospital do Juqueri, Homicídio
-15, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-16, 1927, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-17, 1928, Cadeia do Interior, Hospital do Juqueri, Homicídio
-18, 1928, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-19, 1928, Cadeia do Interior, Hospital do Juqueri, Não identificado
-20, 1928, Cadeia do Interior, Hospital do Juqueri, Lesão corporal
-21, 1929, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-22, 1929, Cadeia do Interior, Hospital do Juqueri, Homicídio
-23, 1929, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-24, 1929, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-25, 1929, Cadeia do Interior, Hospital do Juqueri, Homicídio
-26, 1929, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-27, 1929, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-28, 1929, Cadeia do Interior, Hospital do Juqueri, Homicídio
-29, 1929, Cadeia do Interior, Hospital do Juqueri, Homicídio
-30, 1929, Cadeia do Interior, Hospital do Juqueri, Homicídio
-31, 1929, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-32, 1929, Cadeia do Interior, Hospital do Juqueri, Homicídio
-33, 1929, Penitenciária do Estado, Hospital do Juqueri, Homicídio
-34, 1929, Cadeia Pública da Capital, Hospital do Juqueri, Tentativa de homicídio
-35, 1929, Cadeia do Interior, Hospital do Juqueri, Tentativa de homicídio
-36, 1929, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-37, 1929, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-38, 1929, Cadeia de Santos, Hospital do Juqueri, Não identificado
-39, 1929, Penitenciária do Estado, Hospital do Juqueri, Não identificado
-40, 1929, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-41, 1929, Cadeia do Interior, Hospital do Juqueri, Homicídio
-42, 1930, Cadeia do Interior, Hospital do Juqueri, Homicídio
-43, 1930, Instituto Correcional de Taubaté, Hospital do Juqueri, Não identificado
-44, 1930, Cadeia do Interior, Hospital do Juqueri, Não identificado
-45, 1930, Instituto Correcional de Taubaté, Hospital do Juqueri, Não identificado
-46, 1930, Cadeia Pública da Capital, Hospital do Juqueri, Invasão de propriedade
-47, 1930, Cadeia do Interior, Hospital do Juqueri, Homicídio
-48, 1930, Cadeia do Interior, Hospital do Juqueri, Homicídio
-49, 1930, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-50, 1930, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-51, 1930, Cadeia do Interior, Hospital do Juqueri, Homicídio
-52, 1930, Instituto Correcional de Taubaté, Hospital do Juqueri, Não identificado
-53, 1930, Cadeia do Interior, Hospital do Juqueri, Homicídio
-54, 1930, Cadeia do Interior, Hospital do Juqueri, Não identificado
-55, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-56, 1931, Cadeia do Interior, Manicômio Judiciário, Homicídio
-57, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-58, 1931, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-59, 1931, Cadeia do Interior, Manicômio Judiciário, Homicídio
-60, 1931, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-61, 1931, Cadeia Pública da Capital, Hospital do Juqueri, Homicídio
-62, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Não identificado
-63, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-64, 1931, Recolhimento das Perdizes, Hospital do Juqueri, Não identificado
-65, 1931, Hospital Comum, Manicômio Judiciário, Não identificado
-66, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-67, 1931, Penitenciária do Estado, Manicômio Judiciário, Não identificado
-68, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-69, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-70, 1931, Cadeia do Interior, Manicômio Judiciário, Homicídio
-71, 1931, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-72, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-73, 1931, Penitenciária do Estado, Hospital do Juqueri, Não identificado
-74, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Não identificado
-75, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Não identificado
-76, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-77, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-78, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-79, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Não identificado
-80, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-81, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-82, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-83, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Não identificado
-84, 1931, Cadeia Pública da Capital, Manicômio Judiciário, Não identificado
-85, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-86, 1931, Cadeia Pública da Capital, Hospital do Juqueri, Não identificado
-87, 1931, Cadeia do Interior, Manicômio Judiciário, Não identificado
-88, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-89, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-90, 1932, Penitenciária do Estado, Manicômio Judiciário, Roubo
-91, 1932, Penitenciária do Estado, Manicômio Judiciário, Não identificado
-92, 1932, Penitenciária do Estado, Manicômio Judiciário, Estupro
-93, 1932, Penitenciária do Estado, Manicômio Judiciário, Lesão corporal
-94, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-95, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-96, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-97, 1932, Penitenciária do Estado, Manicômio Judiciário, Furto
-98, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-99, 1932, Penitenciária do Estado, Manicômio Judiciário, Furto
-100, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-101, 1932, Penitenciária do Estado, Manicômio Judiciário, Lesão corporal
-102, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-103, 1932, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-104, 1932, Cadeia do Interior, Manicômio Judiciário, Não identificado
-105, 1932, Cadeia Pública da Capital, Manicômio Judiciário, Lesão corporal
-106, 1932, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-107, 1932, Cadeia do Interior, Manicômio Judiciário, Homicídio
-108, 1932, Hospital Militar, Manicômio Judiciário, Lesão corporal
-109, 1932, Cadeia do Interior, Manicômio Judiciário, Homicídio
-110, 1932, Cadeia do Interior, Manicômio Judiciário, Homicídio
-111, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-112, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-113, 1932, Carceragem da Policia Central São Paulo, Manicômio Judiciário, Tentativa de homicídio
-114, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-115, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-116, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-117, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-118, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-119, 1932, Penitenciária do Estado, Manicômio Judiciário, Roubo
-120, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-121, 1932, Penitenciária do Estado, Manicômio Judiciário, Estupro
-122, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-123, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-124, 1932, Penitenciária do Estado, Manicômio Judiciário, Tentativa de homicídio
-125, 1932, Hospedaria de Imigrantes, Manicômio Judiciário, Não identificado
-126, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-127, 1932, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-128, 1932, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-129, 1932, Cadeia Pública da Capital, Manicômio Judiciário, Estupro
-130, 1932, Cadeia do Interior, Manicômio Judiciário, Tentativa de homicídio
-131, 1932, Cadeia do Interior, Manicômio Judiciário, Tentativa de homicídio
-132, 1932, Cadeia do Interior, Manicômio Judiciário, Homicídio
-133, 1932, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-134, 1933, Asilo de Inválidos de Jaçanã, Manicômio Judiciário, Homicídio
-135, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-136, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-137, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-138, 1933, Cadeia do Interior, Manicômio Judiciário, Lesão corporal
-139, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-140, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Roubo
-141, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-142, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-143, 1933, Recolhimento das Perdizes, Manicômio Judiciário, Homicídio
-144, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-145, 1933, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-146, 1933, Penitenciária do Estado, Manicômio Judiciário, Estelionato
-147, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-148, 1933, Penitenciária do Estado, Manicômio Judiciário, Não identificado
-149, 1933, Delegacia de Polícia, Manicômio Judiciário, Homicídio
-150, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-151, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Furto
-152, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-153, 1933, Cadeia do Interior, Manicômio Judiciário, Não identificado
-154, 1933, Cadeia do Interior, Manicômio Judiciário, Não identificado
-155, 1933, Repartição Central da Polícia São Paulo, Manicômio Judiciário, Lesão corporal
-156, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-157, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-158, 1933, Cadeia do Interior, Manicômio Judiciário, Roubo
-159, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-160, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-161, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-162, 1933, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-163, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-164, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Estupro
-165, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-166, 1933, Cadeia Pública da Capital, Manicômio Judiciário, Homicídio
-167, 1933, Cadeia do Interior, Manicômio Judiciário, Não identificado
-168, 1933, Cadeia do Interior, Manicômio Judiciário, Homicídio
-169, 1933, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-170, 1933, Penitenciária do Estado, Manicômio Judiciário, Homicídio
-171, 1933, Penitenciária do Estado, Manicômio Judiciário, Furto
+"1927","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1927","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1927","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1927","Cadeia do Interior","Hospital do Juqueri","Lesão corporal"
+"1927","Cadeia do Interior","Hospital do Juqueri","Lesão corporal"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1927","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1927","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1927","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1928","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1928","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1928","Cadeia do Interior","Hospital do Juqueri","Não identificado"
+"1928","Cadeia do Interior","Hospital do Juqueri","Lesão corporal"
+"1929","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1929","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1929","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1929","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1929","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1929","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1929","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1929","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1929","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1929","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1929","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1929","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1929","Penitenciária do Estado","Hospital do Juqueri","Homicídio"
+"1929","Cadeia Pública da Capital","Hospital do Juqueri","Tentativa de homicídio"
+"1929","Cadeia do Interior","Hospital do Juqueri","Tentativa de homicídio"
+"1929","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1929","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1929","Cadeia de Santos","Hospital do Juqueri","Não identificado"
+"1929","Penitenciária do Estado","Hospital do Juqueri","Não identificado"
+"1929","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1929","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1930","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1930","Instituto Correcional de Taubaté","Hospital do Juqueri","Não identificado"
+"1930","Cadeia do Interior","Hospital do Juqueri","Não identificado"
+"1930","Instituto Correcional de Taubaté","Hospital do Juqueri","Não identificado"
+"1930","Cadeia Pública da Capital","Hospital do Juqueri","Invasão de propriedade"
+"1930","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1930","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1930","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1930","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1930","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1930","Instituto Correcional de Taubaté","Hospital do Juqueri","Não identificado"
+"1930","Cadeia do Interior","Hospital do Juqueri","Homicídio"
+"1930","Cadeia do Interior","Hospital do Juqueri","Não identificado"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1931","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1931","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1931","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1931","Cadeia Pública da Capital","Hospital do Juqueri","Homicídio"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Não identificado"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1931","Recolhimento das Perdizes","Hospital do Juqueri","Não identificado"
+"1931","Hospital Comum","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Penitenciária do Estado","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1931","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Penitenciária do Estado","Hospital do Juqueri","Não identificado"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Não identificado"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Não identificado"
+"1931","Cadeia Pública da Capital","Manicômio Judiciário","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1931","Cadeia Pública da Capital","Hospital do Juqueri","Não identificado"
+"1931","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Roubo"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Não identificado"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Estupro"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Lesão corporal"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Furto"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Furto"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Lesão corporal"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1932","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1932","Cadeia Pública da Capital","Manicômio Judiciário","Lesão corporal"
+"1932","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1932","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1932","Hospital Militar","Manicômio Judiciário","Lesão corporal"
+"1932","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1932","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Carceragem da Policia Central (São Paulo)","Manicômio Judiciário","Tentativa de homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Roubo"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Estupro"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Tentativa de homicídio"
+"1932","Hospedaria de Imigrantes","Manicômio Judiciário","Não identificado"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1932","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1932","Cadeia Pública da Capital","Manicômio Judiciário","Estupro"
+"1932","Cadeia do Interior","Manicômio Judiciário","Tentativa de homicídio"
+"1932","Cadeia do Interior","Manicômio Judiciário","Tentativa de homicídio"
+"1932","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1932","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1933","Asilo de Inválidos de Jaçanã","Manicômio Judiciário","Homicídio"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Lesão corporal"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Roubo"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Recolhimento das Perdizes","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1933","Penitenciária do Estado","Manicômio Judiciário","Estelionato"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Penitenciária do Estado","Manicômio Judiciário","Não identificado"
+"1933","Delegacia de Polícia","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Furto"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1933","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1933","Repartição Central da Polícia (São Paulo)","Manicômio Judiciário","Lesão corporal"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Roubo"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Estupro"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Cadeia Pública da Capital","Manicômio Judiciário","Homicídio"
+"1933","Cadeia do Interior","Manicômio Judiciário","Não identificado"
+"1933","Cadeia do Interior","Manicômio Judiciário","Homicídio"
+"1933","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1933","Penitenciária do Estado","Manicômio Judiciário","Homicídio"
+"1933","Penitenciária do Estado","Manicômio Judiciário","Furto"
